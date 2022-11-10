@@ -1,7 +1,7 @@
 ### Hi I an Ace. 👋
 ### Enthusiastic in penetration testing, security tool development and vulnerability mining
 
-### 我的GitHub活动统计图
+### GitHub统计图
 ![](https://activity-graph.herokuapp.com/graph?username=huclilu&theme=github)
 
 
