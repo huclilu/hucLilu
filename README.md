@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=huclilu&show_icons=true&theme=tokyonight)
 
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/huclilu/count.svg)
